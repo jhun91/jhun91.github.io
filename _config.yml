@@ -15,9 +15,9 @@ timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Jhun's blog                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Jhun's blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Github blog
@@ -44,7 +44,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: '' #google_meta_tag_verification # change to your verification string
+google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
 google_analytics:
